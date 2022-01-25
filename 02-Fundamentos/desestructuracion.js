@@ -1,3 +1,4 @@
+//video 18
 function imprimirHeroe({ nombre, apellido, poder, edad }) {
     nombre = 'Agustinita';
     console.log(nombre, apellido, poder, edad);
