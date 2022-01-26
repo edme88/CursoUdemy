@@ -34,3 +34,7 @@ Link: https://www.udemy.com/course/node-de-cero-a-experto/
 26. Código fuente de la sección
 
 ## Sección 4: Bases de Node
+27. Introducción a la sección
+28. Temas puntuales de la sección
+29. Inicio del proyecto - Sección 4 (Ej. Escribir tabla de multiplicar)
+30. Requerir paquetes - require (Ej. Escribir tabla de multiplicar - guardarla en un txt)
