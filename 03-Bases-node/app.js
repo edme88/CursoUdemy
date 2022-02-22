@@ -1,19 +1,13 @@
 const fs = require('fs');
+const { crearArchivo } = require('./helpers/multiplicarAsync');
+
+
 console.clear();
-const base = 5;
-let salida = '';
 
-console.log("============================");
-console.log(`TABLA DE MULTIPLICAR DEL ${base}`);
-console.log("============================");
-for (let i = 1; i <= 10; i++) {
-    salida += `${base} x ${i} = ${5*i}\n`;
-}
+const [, , arg3 = 'base=5'] = process.argv;
+const [, base = 5] = arg3.split('=');
 
-fs.writeFile(`tabla-${base}.txt`, salida, (err) => {
-    if (err) throw err;
 
-    console.log(`tabla-${base}.txt creada`);
-})
-
-console.log(salida);
+crearArchivo(base)
+    .then(nombreArchivo => console.log(nombreArchivo, ' creado'))
+    .catch(err => console.log(err));
