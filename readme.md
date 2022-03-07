@@ -38,3 +38,11 @@ Link: https://www.udemy.com/course/node-de-cero-a-experto/
 28. Temas puntuales de la sección
 29. Inicio del proyecto - Sección 4 (Ej. Escribir tabla de multiplicar)
 30. Requerir paquetes - require (Ej. Escribir tabla de multiplicar - guardarla en un txt)
+31. Importar archivos de nuestro proyecto
+32. Recibir información en la línea de comando
+33. package.json - init - install - uninstall - update (npm install colors@1.0.0 version especifica)
+34. Yargs (yargs.js.org/docs)
+35. Configuraciones de Yargs
+36. Configuración de Yargs Independiente
+
+de 273

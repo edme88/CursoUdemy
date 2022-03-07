@@ -1,0 +1,31 @@
+{
+    "name": "cursoudemy",
+    "version": "1.0.0",
+    "description": "plataforma: Udemy\r curso: node-de-cero-a-experto\r Link: https://www.udemy.com/course/node-de-cero-a-experto/",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "base3": "node 03-Bases-node/app --base=3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/edme88/CursoUdemy.git"
+    },
+    "keywords": [
+        "curso",
+        "node"
+    ],
+    "author": "Agustina Edmé Aliciardi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/edme88/CursoUdemy/issues"
+    },
+    "homepage": "https://github.com/edme88/CursoUdemy#readme",
+    "dependencies": {
+        "colors": "^1.0.0",
+        "yargs": "^17.3.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
