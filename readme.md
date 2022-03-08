@@ -1,5 +1,6 @@
+# node-de-cero-a-experto
+
 plataforma: Udemy
-curso: node-de-cero-a-experto
 Link: https://www.udemy.com/course/node-de-cero-a-experto/
 
 ## Sección 1: Introducción
@@ -47,6 +48,27 @@ Link: https://www.udemy.com/course/node-de-cero-a-experto/
 37. Colores de la consola https://www.npmjs.com/package/colors
 38. Tarea - Tabla hasta X
 39. Git - Preparar repositorio
+40. Respaldo del proyecto con GitHub
+41. Código fuente de la sección https://github.com/Klerith/multiplicar-node/tree/v1.0.0
 
+## Sección 5: Aplicación de consola interactiva - Tareas por hacer
+42. Introducción a la sección
+43. Temas puntuales de la secicón
+```
+El objetivo es que creemos una aplicación de consola interactiva, con opciones que se puedan seleccionar con las teclas direccionales, números y con la tecla espaciadora cuando hay multiples opciones.
+
+Puntualmente sería:
+    stdin
+    stdout
+    Ciclos
+    Inquirer
+    Clases en JavaScript
+    Archivos JSON
+    Fuertemente async y await
+    Transformaciones
+Esta es una aplicación real que les puede servir mucho cuando tengan que crear alguna aplicación de consola.
+```
+44. Demostración del objetivo final de la sección
+45. Inicio del proyecto - Tareas por hacer (node app.js)
 
 de 273
