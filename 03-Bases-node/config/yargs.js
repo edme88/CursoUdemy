@@ -8,9 +8,15 @@ const argv = require('yargs')
     .option('l', {
         alias: 'listar',
         type: 'boolean',
-        demandOption: 'true',
-        default: 'false',
+        demandOption: true,
+        default: false,
         describe: 'Muestra la tabla en consola'
+    })
+    .option('h', {
+        alias: 'hasta',
+        type: 'number',
+        default: 10,
+        describe: 'Hasta que número se desea multiplicar'
     })
     .check((argv, options) => {
         if (isNaN(argv.b)) {

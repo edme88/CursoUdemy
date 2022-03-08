@@ -44,5 +44,9 @@ Link: https://www.udemy.com/course/node-de-cero-a-experto/
 34. Yargs (yargs.js.org/docs)
 35. Configuraciones de Yargs
 36. Configuración de Yargs Independiente
+37. Colores de la consola https://www.npmjs.com/package/colors
+38. Tarea - Tabla hasta X
+39. Git - Preparar repositorio
+
 
 de 273
