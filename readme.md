@@ -70,5 +70,19 @@ Esta es una aplicación real que les puede servir mucho cuando tengan que crear 
 ```
 44. Demostración del objetivo final de la sección
 45. Inicio del proyecto - Tareas por hacer (node app.js)
+46. Stdin - Stdout -ReadLine
+47. Repetir el menú de forma infinita
+48. Inquirer
+```
+Inquirer
+En la siguiente clase trabajaremos con el paquete inquirer, les dejo el enlace para que lo abran y lo lean antes de que lo empecemos a usar:
+https://www.npmjs.com/package/inquirer
+
+Recuerden revisar la documentación de estos paquetes, porque usualmente ahí nos dicen todo lo que pueden hacer.
+```
+49. Construir el menú interactivo - Inquirer
+50. Opciones del menú interactivo
+51. 
+
 
 de 273

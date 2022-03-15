@@ -23,6 +23,7 @@
     "homepage": "https://github.com/edme88/CursoUdemy#readme",
     "dependencies": {
         "colors": "^1.0.0",
+        "inquirer": "^8.2.1",
         "yargs": "^17.3.1"
     },
     "devDependencies": {
