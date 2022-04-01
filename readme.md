@@ -82,7 +82,9 @@ Recuerden revisar la documentación de estos paquetes, porque usualmente ahí no
 ```
 49. Construir el menú interactivo - Inquirer
 50. Opciones del menú interactivo
-51. 
+51. Lógica para el manejo de las tareas por hacer
+52. Crear y listar tareas
+53.
 
 
-de 273
+de 273 == 19% completado xD
